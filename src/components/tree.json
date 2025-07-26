@@ -1,0 +1,1021 @@
+{
+    "type": "directory",
+    "uri": "file:///github/react-file-tree",
+    "children": [
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/.babelrc"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/.gitignore"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/.gitmodules"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/LICENSE"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/README.md"
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/assets",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/assets/appearence.png"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/demo",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/demo/Tree.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/demo/index.tsx"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/dist",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/dist/bundle.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/dist/index.html"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/github-file-icons",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.babelrc"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.editorconfig"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.eslintignore"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.eslintrc"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.git"
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/.github",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/.github/workflows",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/.github/workflows/master.yaml"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/.github/workflows/pull-request.yaml"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.gitignore"
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/.husky",
+            "children": [
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/.husky/.gitignore"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/.husky/pre-commit"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.prettierignore"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/.prettierrc"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/LICENSE"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/README.md"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/package.json"
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/safari",
+            "children": [
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/.gitignore"
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/File%20Icons%20for%20GitHub%20and%20GitLab.xcodeproj",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/File%20Icons%20for%20GitHub%20and%20GitLab.xcodeproj/project.pbxproj"
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/File%20Icons%20for%20GitHub%20and%20GitLab.xcodeproj/xcshareddata",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/File%20Icons%20for%20GitHub%20and%20GitLab.xcodeproj/xcshareddata/xcschemes",
+                        "children": [
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/File%20Icons%20for%20GitHub%20and%20GitLab.xcodeproj/xcshareddata/xcschemes/File%20Icons%20for%20GitHub%20and%20GitLab%20(iOS).xcscheme"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)",
+                "children": [
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AccentColor.colorset",
+                        "children": [
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AccentColor.colorset/Contents.json"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset",
+                        "children": [
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/Contents.json"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ios-marketing-icon-1024@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-20@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-20@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-29@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-29@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-40@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-40@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-76@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/ipad-icon-83.5@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-20@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-20@3x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-29@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-29@3x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-40@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-40@3x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-60@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/iphone-icon-60@3x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-128@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-128@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-16@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-16@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-256@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-256@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-32@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-32@2x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-512@1x.png"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/AppIcon.appiconset/mac-icon-512@2x.png"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/Contents.json"
+                      },
+                      {
+                        "type": "directory",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/LargeIcon.imageset",
+                        "children": [
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/LargeIcon.imageset/Contents.json"
+                          },
+                          {
+                            "type": "file",
+                            "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Assets.xcassets/LargeIcon.imageset/icon-128.png"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Base.lproj",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Base.lproj/Main.html"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Resources",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Resources/Icon.png"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Resources/Script.js"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/Resources/Style.css"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(App)/ViewController.swift"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(Extension)",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/Shared%20(Extension)/SafariWebExtensionHandler.swift"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/app-store-description.txt"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/app-store-keywords.txt"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/exportOptions.plist"
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/AppDelegate.swift"
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/Base.lproj",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/Base.lproj/LaunchScreen.storyboard"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/Base.lproj/Main.storyboard"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/Info.plist"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(App)/SceneDelegate.swift"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(Extension)",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/iOS%20(Extension)/Info.plist"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)/AppDelegate.swift"
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)/Base.lproj",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)/Base.lproj/Main.storyboard"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)/File%20Icons%20for%20GitHub%20and%20GitLab.entitlements"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(App)/Info.plist"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(Extension)",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(Extension)/File%20Icons%20for%20GitHub%20and%20GitLab.entitlements"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/safari/macOS%20(Extension)/Info.plist"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/scripts",
+            "children": [
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/scripts/update-assets.mjs"
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/src",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/src/css",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/css/icons.css"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons",
+                "children": [
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/css",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/css/colors.css"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/css/fonts.css"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/css/icons.css"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/db",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/db/icondb.d.ts"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/db/icondb.js"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/file-icons.ts"
+                  },
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts/devopicons.woff2"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts/file-icons.woff2"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts/fontawesome.woff2"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts/mfixx.woff2"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/fonts/octicons.woff2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/file-icons/types.ts"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/src/img",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/img/icon-128.png"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/img/icon-16.png"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/img/icon-64.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/github-file-icons/src/manifest.json"
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/github-file-icons/src/ts",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/ts/background.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/github-file-icons/src/ts/content.ts"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/github-file-icons/tmp",
+            "children": []
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/tsconfig.json"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/webpack.config.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/github-file-icons/yarn.lock"
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/icons.css"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/index.html"
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/lib",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/DefaultFileItem.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/DefaultFileItem.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileItem.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileItem.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileItemWithFileIcon.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileItemWithFileIcon.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileTree.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/FileTree.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/ItemRendererWithIcon.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/ItemRendererWithIcon.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/TreeItem.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/TreeItem.js"
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/lib/file-icons",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/lib/file-icons/db",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/lib/file-icons/db/icondb.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/lib/file-icons/db/icondb.js"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/lib/file-icons/file-icons.d.ts"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/lib/file-icons/file-icons.js"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/lib/file-icons/types.d.ts"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/lib/file-icons/types.js"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/index.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/index.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/node.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/node.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/type.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/type.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/useLatest.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/useLatest.js"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/utils.d.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/lib/utils.js"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/output",
+        "children": [
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/output/github-file-icons",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/output/github-file-icons/src",
+                "children": [
+                  {
+                    "type": "directory",
+                    "uri": "file:///github/react-file-tree/output/github-file-icons/src/file-icons",
+                    "children": [
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/output/github-file-icons/src/file-icons/file-icons.d.ts"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/output/github-file-icons/src/file-icons/file-icons.js"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/output/github-file-icons/src/file-icons/types.d.ts"
+                      },
+                      {
+                        "type": "file",
+                        "uri": "file:///github/react-file-tree/output/github-file-icons/src/file-icons/types.js"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/output/src",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/output/src/lib",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/FileTree.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/FileTree.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/TreeItem.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/TreeItem.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/index.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/index.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/type.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/type.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/useEvent.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/useEvent.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/useTree.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/useTree.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/utils.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/lib/utils.js"
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/output/src/server",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/FileAction.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/FileAction.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/LocalFileService.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/LocalFileService.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/createMiddleware.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/createMiddleware.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/executeAction.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/executeAction.js"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/index.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/output/src/server/index.js"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/package.json"
+      },
+      {
+        "type": "directory",
+        "uri": "file:///github/react-file-tree/src",
+        "children": [
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/DefaultFileItem.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/FileItem.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/FileItemWithFileIcon.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/FileTree.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/ItemRendererWithIcon.tsx"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/TreeItem.tsx"
+          },
+          {
+            "type": "directory",
+            "uri": "file:///github/react-file-tree/src/file-icons",
+            "children": [
+              {
+                "type": "directory",
+                "uri": "file:///github/react-file-tree/src/file-icons/db",
+                "children": [
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/src/file-icons/db/icondb.d.ts"
+                  },
+                  {
+                    "type": "file",
+                    "uri": "file:///github/react-file-tree/src/file-icons/db/icondb.js"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/src/file-icons/file-icons.ts"
+              },
+              {
+                "type": "file",
+                "uri": "file:///github/react-file-tree/src/file-icons/types.ts"
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/index.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/node.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/type.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/useLatest.ts"
+          },
+          {
+            "type": "file",
+            "uri": "file:///github/react-file-tree/src/utils.ts"
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/styles.css"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/tsconfig.json"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/webpack.config.js"
+      },
+      {
+        "type": "file",
+        "uri": "file:///github/react-file-tree/yarn.lock"
+      }
+    ]
+  }
