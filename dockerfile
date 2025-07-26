@@ -11,7 +11,7 @@ RUN pnpm fetch --prod  # 预下载所有依赖到虚拟存储
 
 # 复制项目文件并安装
 COPY . .
-RUN pnpm install --frozen-lockfile --prod && \
+RUN pnpm install --frozen-lockfile && \
     pnpm run build
 
 # 第二阶段：生产环境
