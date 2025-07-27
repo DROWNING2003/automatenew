@@ -553,6 +553,7 @@ function AutoMate() {
           >
             <iframe
         src="https://ten-playground-app.preview.huawei-zeabur.cn/"
+        allow="microphone"
         style={{
           transform: "translate(-700px, -80px)",
           width: "1200px",
