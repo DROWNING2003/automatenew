@@ -10,6 +10,7 @@ interface MyModalProps {
 
 const MyModal: React.FC<MyModalProps> = ({ show, handleClose }) => {
   const [title, setTitle] = useState("");
+  const [max_continuous_commit, setmax_continuous_commit] = useState("");
   const [description, setDescription] = useState("");
   const [repoLink, setRepoLink] = useState("");
   const [tag, setTag] = useState("");
@@ -48,6 +49,15 @@ const MyModal: React.FC<MyModalProps> = ({ show, handleClose }) => {
             type="text"
             className="form-control"
             value={title}
+            onChange={(e) => setTitle(e.target.value)}
+          />
+        </div>
+        MaxContinuousCommit
+        <div className="input-group mb-3 mt-3">
+          <input
+            type="number"
+            className="form-control"
+            value={max_continuous_commit}
             onChange={(e) => setTitle(e.target.value)}
           />
         </div>

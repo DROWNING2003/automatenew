@@ -530,7 +530,6 @@ function AutoMate() {
                 )}
 
                 <TerminalComponent
-                  //key= {feedback}
                   feedback={feedback}
                   submitCount={submitCount}
                 />
@@ -551,6 +550,7 @@ function AutoMate() {
               boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
             }}
           >
+            {/* <Live2dProvider/> */}
             <iframe
         src="https://ten-playground-app.preview.huawei-zeabur.cn/"
         allow="microphone"
