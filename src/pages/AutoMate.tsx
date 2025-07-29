@@ -552,7 +552,7 @@ function AutoMate() {
           >
             {/* <Live2dProvider/> */}
             <iframe
-        src="https://ten-playground-app.preview.huawei-zeabur.cn/"
+        src="https://ten.preview.huawei-zeabur.cn/"
         allow="microphone"
         style={{
           transform: "translate(-700px, -80px)",
